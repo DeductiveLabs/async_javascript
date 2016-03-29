@@ -1,0 +1,20 @@
+{
+  "name": "learning_async",
+  "version": "1.0.0",
+  "description": "Some examples for learning asynchronous programming using the Q library",
+  "main": "async.js",
+  "dependencies": {
+    "q": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "Q",
+    "async"
+  ],
+  "author": "Jakob Lundberg",
+  "license": "CC0-1.0"
+}
